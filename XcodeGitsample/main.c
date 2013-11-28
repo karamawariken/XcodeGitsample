@@ -13,6 +13,7 @@ int main(int argc, const char * argv[])
 
     // insert code here...
     printf("やっほっほ〜世界!\n");
+    printf("これはoriginで作成した文です\n");
     return 0;
 }
 
